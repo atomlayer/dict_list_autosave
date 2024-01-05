@@ -1,0 +1,16 @@
+[project]
+name = "python_linq"
+version = "1.0"
+description = ''
+authors = ["Atomlayer"]
+readme = "README.md"
+homepage = "https://github.com/atomlayer/dict_list_autosave"
+repository = "https://github.com/atomlayer/dict_list_autosave"
+keywords = ["dict", "list", "python3", "db", "file saver"]
+requires-python = ">=3.7"
+license = {file = "LICENSE"}
+
+
+[build-system]
+requires = ["setuptools>=43.0.0", "wheel"]
+build-backend = "setuptools.build_meta"
